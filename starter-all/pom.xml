@@ -6,6 +6,8 @@
 		<version>0.0.1</version>
 	</parent>
 	<artifactId>starter-all</artifactId>
+	<name>starter-all</name>
+	<description>starter所有模块</description>
 	<dependencies>
 		<dependency>
 			<groupId>run.soeasy.starter</groupId>

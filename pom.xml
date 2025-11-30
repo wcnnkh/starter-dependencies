@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>run.soeasy.starter</groupId>
 		<artifactId>starter</artifactId>
-		<version>0.0.15</version>
+		<version>1.0.0</version>
 	</parent>
 	<artifactId>starter-dependencies</artifactId>
 	<!-- mvn versions:set -DnewVersion=0.0.1 -DgenerateBackupPoms=false -->
